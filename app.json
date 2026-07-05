@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Audio Royale",
+    "slug": "audio-royale",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.audioroyale.game"
+    }
+  }
+}
